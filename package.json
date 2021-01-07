@@ -1,0 +1,23 @@
+{
+  "name": "Actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulprince24542/Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulprince24542/Actions/issues"
+  },
+  "homepage": "https://github.com/paulprince24542/Actions#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
