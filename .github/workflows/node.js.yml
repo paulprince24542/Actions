@@ -26,4 +26,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i
-    - run: npm start
+    - run: sudo pm2 restart 0
+    - run: sudo pm2 logs
